@@ -1,0 +1,28 @@
+.form,
+.bayInputContainer {
+ padding: 1rem;
+ font-size: 1.5rem;
+}
+
+.bayInputLabel {
+ padding-right: 1rem;
+}
+
+.bayInputText {
+ font-size: 1.5rem;
+ padding: 0.5rem;
+ border-radius: 0.5rem;
+}
+
+.submitButton {
+ padding: 0.5rem 2rem;
+ border: 0;
+ border-radius: 1rem;
+ color: #fff;
+ background-color: #5ce0c6;
+ background-image: linear-gradient(to top left,
+   rgba(0, 0, 0, 0.2),
+   rgba(0, 0, 0, 0.2) 40%,
+   rgba(0, 0, 0, 0));
+ font-size: 1.5rem;
+}

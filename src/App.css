@@ -1,0 +1,12 @@
+.app{
+  padding: 3rem 2rem;
+}
+.bayLocationDisplay{
+  margin: 0 0 1rem 0;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.noBoxesInBay{
+  font-size: 1.5rem;
+}
