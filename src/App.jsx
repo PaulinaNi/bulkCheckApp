@@ -80,9 +80,9 @@ function App() {
   function missingBin() {
     if (bayLocation[0] === 'E') {
       return 'M55M01'
-    } else if (bayLocation[0] === 'B' || bayLocation[0] === 'D') {
+    } else if (bayLocation[0] === 'B' || bayLocation[0] === 'D' || bayLocation[0] === 'F') {
       return 'M07M01'
-    } else if (bayLocation[0] === 'J' || bayLocation[0] === 'K') {
+    } else if (bayLocation[0] === 'J' || bayLocation[0] === 'K' || bayLocation[0] === 'L') {
       return 'M08M01'
     } else if (bayLocation[0] === 'N' || bayLocation[0] === 'R') {
       return 'M09M01'
